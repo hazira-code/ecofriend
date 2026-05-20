@@ -1,10 +1,10 @@
-EcoFriends 🌿
+EcoFriend 🌿
 
 AI Smart Plantation Assistant
 
 Overview
 
-EcoFriends is an AI-powered smart plantation assistant developed for students and beginners who want guidance in growing and maintaining plants.
+EcoFriend is an AI-powered smart plantation assistant developed for students and beginners who want guidance in growing and maintaining plants.
 
 The app helps users:
 
