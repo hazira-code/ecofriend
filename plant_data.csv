@@ -1,0 +1,31 @@
+Plant,Category,Soil,Water,Climate,Sunlight,Growth_Time,Common_Diseases,Common_Problems,Solutions,Fertilizer,Care_Level,Indoor_Outdoor,Benefits
+Tomato,Vegetable,Loamy,500ml/day,Warm,Full Sunlight,60-90 days,Blight;Leaf Spot;Root Rot,Yellow Leaves;Pests;Wilting,Use neem oil;Avoid overwatering;Provide sunlight,Compost;NPK Medium,Medium,Outdoor,Rich in vitamins
+Aloe Vera,Medicinal,Sandy,200ml/day,Dry,Partial Sunlight,8-10 months,Root Rot,Fungal Infection;Overwatering,Reduce watering;Use dry soil,Vermicompost,Easy,Indoor,Medicinal uses
+Mint,Herb,Moist,300ml/day,Moderate,Partial Sunlight,30-60 days,Powdery Mildew,Wilting;Dry Leaves,Keep soil moist;Improve airflow,Organic Compost,Easy,Indoor/Outdoor,Air purification
+Rose,Flower,Loamy,400ml/day,Moderate,Full Sunlight,2-3 months,Black Spot;Powdery Mildew,Aphids;Yellow Leaves,Neem oil spray;Prune infected leaves,Bone Meal,Medium,Outdoor,Beautiful flowers
+Sunflower,Flower,Loamy,600ml/day,Warm,Full Sunlight,70-100 days,Downy Mildew,Weak Stem;Pests,Support stem;Use organic pesticides,Compost,Easy,Outdoor,Produces seeds
+Cactus,Succulent,Sandy,100ml/day,Dry,Full Sunlight,Slow Growth,Root Rot,Overwatering,Water less;Use sandy soil,Low Nitrogen Fertilizer,Easy,Indoor,Low maintenance
+Lavender,Flower,Sandy,250ml/day,Cool,Full Sunlight,90-120 days,Fungal Disease,Root Rot,Good drainage;Reduce moisture,Organic Compost,Medium,Outdoor,Fragrance
+Money Plant,Indoor Plant,Loamy,250ml/day,Moderate,Low Light,Fast Growth,Leaf Spot,Yellow Leaves,Clean leaves;Avoid excess water,Liquid Fertilizer,Easy,Indoor,Air purification
+Tulsi,Medicinal,Loamy,350ml/day,Warm,Full Sunlight,40-60 days,Fungal Wilt,Dry Leaves,Water properly;Provide sunlight,Organic Compost,Easy,Indoor/Outdoor,Medicinal and spiritual
+Cucumber,Vegetable,Loamy,700ml/day,Warm,Full Sunlight,50-70 days,Powdery Mildew,Wilting;Pests,Neem oil;Proper watering,Compost,Medium,Outdoor,Hydration benefits
+Banana,Fruit,Loamy,1200ml/day,Tropical,Full Sunlight,9-12 months,Panama Disease,Leaf Tear;Weak Growth,Add potassium;Protect from wind,Cow Manure,Hard,Outdoor,Rich in potassium
+Mango,Fruit,Loamy,1000ml/day,Tropical,Full Sunlight,3-5 years,Anthracnose,Fruit Drop,Fungicide spray;Proper pruning,Organic Compost,Medium,Outdoor,Popular tropical fruit
+Apple,Fruit,Loamy,800ml/day,Cool,Full Sunlight,4-5 years,Apple Scab,Leaf Curl,Use fungicides;Prune regularly,NPK Fertilizer,Hard,Outdoor,Rich in fiber
+Papaya,Fruit,Loamy,900ml/day,Tropical,Full Sunlight,6-9 months,Ring Spot Virus,Stem Rot,Remove infected leaves;Avoid waterlogging,Compost,Medium,Outdoor,Improves digestion
+Carrot,Vegetable,Sandy,300ml/day,Cool,Full Sunlight,70-80 days,Root Rot,Forked Roots,Loose soil;Avoid stones,Phosphorus Fertilizer,Easy,Outdoor,Good for eyesight
+Potato,Vegetable,Loamy,500ml/day,Cool,Full Sunlight,80-100 days,Early Blight,Tuber Rot,Crop rotation;Proper drainage,Potassium Fertilizer,Medium,Outdoor,Energy source
+Onion,Vegetable,Loamy,350ml/day,Moderate,Full Sunlight,90-120 days,Downy Mildew,Bulb Rot,Improve airflow;Avoid excess water,Organic Fertilizer,Easy,Outdoor,Cooking ingredient
+Garlic,Vegetable,Loamy,300ml/day,Cool,Full Sunlight,120-150 days,White Rot,Fungal Infection,Well-drained soil;Crop rotation,Compost,Easy,Outdoor,Medicinal properties
+Spinach,Leafy Vegetable,Loamy,400ml/day,Cool,Partial Sunlight,40-50 days,Downy Mildew,Yellow Leaves,Avoid overcrowding;Water properly,Nitrogen Fertilizer,Easy,Outdoor,Rich in iron
+Broccoli,Vegetable,Loamy,600ml/day,Cool,Full Sunlight,80-100 days,Club Root,Wilting,Maintain soil pH;Avoid overwatering,Organic Compost,Medium,Outdoor,Rich in nutrients
+Chili,Vegetable,Loamy,450ml/day,Warm,Full Sunlight,70-90 days,Leaf Curl Virus,Pests,Neem oil spray;Remove infected leaves,NPK Fertilizer,Medium,Outdoor,Spice crop
+Brinjal,Vegetable,Loamy,500ml/day,Warm,Full Sunlight,90-120 days,Bacterial Wilt,Fruit Borer,Use organic pesticides,Compost,Medium,Outdoor,Popular vegetable
+Coriander,Herb,Loamy,250ml/day,Moderate,Partial Sunlight,30-45 days,Leaf Spot,Wilting,Regular watering;Good airflow,Organic Compost,Easy,Indoor/Outdoor,Cooking herb
+Snake Plant,Indoor Plant,Sandy,150ml/day,Moderate,Low Light,Slow Growth,Root Rot,Overwatering,Reduce watering;Use dry soil,Low Nitrogen Fertilizer,Easy,Indoor,Air purification
+Peace Lily,Indoor Plant,Loamy,300ml/day,Moderate,Low Light,Moderate Growth,Leaf Spot,Brown Leaves,Indirect sunlight;Balanced watering,Liquid Fertilizer,Easy,Indoor,Improves air quality
+Areca Palm,Indoor Plant,Loamy,500ml/day,Tropical,Indirect Sunlight,Moderate Growth,Fungal Spot,Dry Leaves,Increase humidity;Avoid direct sunlight,Organic Compost,Medium,Indoor,Decorative plant
+Jasmine,Flower,Loamy,450ml/day,Warm,Full Sunlight,2-3 months,Leaf Blight,Yellow Leaves,Use fungicide;Proper sunlight,Organic Compost,Medium,Outdoor,Fragrant flowers
+Lotus,Aquatic Plant,Clay,1500ml/day,Tropical,Full Sunlight,4-6 months,Fungal Rot,Poor Flowering,Clean water;Add nutrients,Aquatic Fertilizer,Hard,Outdoor,Sacred flower
+Rice,Crop,Clay,2000ml/day,Tropical,Full Sunlight,120-150 days,Blast Disease,Pest Attack,Use resistant seeds;Balanced irrigation,Nitrogen Fertilizer,Hard,Outdoor,Staple food crop
+Wheat,Crop,Loamy,700ml/day,Cool,Full Sunlight,120-150 days,Rust Disease,Weeds,Use fungicides;Weed control,NPK Fertilizer,Medium,Outdoor,Staple grain
